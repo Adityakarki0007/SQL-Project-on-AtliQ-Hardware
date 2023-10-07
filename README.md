@@ -7,7 +7,7 @@ Things learnt from this SQL Project : <br/>
 
 1.Leant how to work and deal with the large amount of the data.<br/>
 2.Learnt how to write SQL queries for getting some required meaningful output from the data table.<br/>
-3.Some SQL tools like - Common Table Expression(CTEs), Self Joins, Pivoting data with case, Multiple Joins, Views, Stored Procedures,User Defined Functions. 
+3.Some SQL tools like - Common Table Expression(CTEs), Self Joins, Pivoting data with case, Multiple Joins, Views, Store Procedure,User Defined Functions. 
 
 Insights got from the SQL Queries :<br/>
 
@@ -19,10 +19,12 @@ ii) Atiq Exclusive
 iii) Atliq e store
 iv) Sage
 v) FlipKart <br/>
+
 4.Top 5 market in the fiscal year 2021 are:<br/>
 i) India
 ii) USA
 iii) South Korea
 iv) Canada
 v) United kingdom <br/>
+
 5.In 2020, low performing month is September and high performing month is November. In 2021 March is the low performing month and June is the high performing month.
